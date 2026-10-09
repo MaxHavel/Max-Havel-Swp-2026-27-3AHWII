@@ -26,7 +26,6 @@ export class Fahrzeug {
   get kmStand(): number {
     return this._kmStand;
   }
-
   get geschwindigkeit(): number {
     return this._geschwindigkeit;
   }
